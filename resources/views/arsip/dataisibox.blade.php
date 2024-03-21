@@ -6,8 +6,7 @@
 <body class="skin-blue fixed-layout">
     @include('parsial/loader')
     <div id="main-wrapper">
-        @include('parsial/header')
-        @include('parsial/leftmenu')
+
 
         <div class="page-wrapper">
             <div class="container-fluid">
